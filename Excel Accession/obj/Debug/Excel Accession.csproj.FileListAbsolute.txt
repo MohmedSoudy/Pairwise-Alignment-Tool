@@ -1,0 +1,17 @@
+c:\users\hassan\documents\visual studio 2013\Projects\Excel Accession\Excel Accession\bin\Debug\Excel Accession.exe
+c:\users\hassan\documents\visual studio 2013\Projects\Excel Accession\Excel Accession\bin\Debug\Excel Accession.pdb
+c:\users\hassan\documents\visual studio 2013\Projects\Excel Accession\Excel Accession\bin\Debug\ExcelLibrary.dll
+c:\users\hassan\documents\visual studio 2013\Projects\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form1.resources
+c:\users\hassan\documents\visual studio 2013\Projects\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Properties.Resources.resources
+c:\users\hassan\documents\visual studio 2013\Projects\Excel Accession\Excel Accession\obj\Debug\Excel Accession.csproj.GenerateResource.Cache
+c:\users\hassan\documents\visual studio 2013\Projects\Excel Accession\Excel Accession\obj\Debug\Excel Accession.exe
+c:\users\hassan\documents\visual studio 2013\Projects\Excel Accession\Excel Accession\obj\Debug\Excel Accession.pdb
+C:\Users\hassan\Documents\Visual Studio 2013\Projects\Excel Accession\Excel Accession\obj\Debug\Excel Accession.csprojResolveAssemblyReference.cache
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel Accession.exe
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel Accession.pdb
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\bin\Debug\Excel Accession.exe
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\bin\Debug\Excel Accession.pdb
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel Accession.csprojResolveAssemblyReference.cache
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form1.resources
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Properties.Resources.resources
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel Accession.csproj.GenerateResource.Cache

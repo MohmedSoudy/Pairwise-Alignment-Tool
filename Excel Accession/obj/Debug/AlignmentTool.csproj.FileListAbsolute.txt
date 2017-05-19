@@ -1,0 +1,44 @@
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\bin\Debug\Excel Accession.exe
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\bin\Debug\Excel Accession.pdb
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form1.resources
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form2.resources
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Properties.Resources.resources
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\AlignmentTool.csproj.GenerateResource.Cache
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel Accession.exe
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\Excel Accession.pdb
+G:\mohmed\Introduction to bioinformatics\Project\Alignment Sayed\Excel Accession\Excel Accession\obj\Debug\AlignmentTool.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Intro Last Version\Excel Accession\Excel Accession\obj\Debug\Excel Accession.exe
+C:\Users\user\Desktop\Intro Last Version\Excel Accession\Excel Accession\obj\Debug\Excel Accession.pdb
+C:\Users\user\Desktop\Intro Last Version\Excel Accession\Excel Accession\bin\Debug\Excel Accession.exe
+C:\Users\user\Desktop\Intro Last Version\Excel Accession\Excel Accession\bin\Debug\Excel Accession.pdb
+C:\Users\user\Desktop\Intro Last Version\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form1.resources
+C:\Users\user\Desktop\Intro Last Version\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form2.resources
+C:\Users\user\Desktop\Intro Last Version\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Properties.Resources.resources
+C:\Users\user\Desktop\Intro Last Version\Excel Accession\Excel Accession\obj\Debug\AlignmentTool.csproj.GenerateResource.Cache
+C:\Users\Soudy\Downloads\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\Excel Accession.exe
+C:\Users\Soudy\Downloads\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\Excel Accession.pdb
+C:\Users\Soudy\Downloads\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\AlignmentTool.csprojResolveAssemblyReference.cache
+C:\Users\Soudy\Downloads\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form1.resources
+C:\Users\Soudy\Downloads\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form2.resources
+C:\Users\Soudy\Downloads\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Properties.Resources.resources
+C:\Users\Soudy\Downloads\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\AlignmentTool.csproj.GenerateResource.Cache
+C:\Users\Soudy\Downloads\Excel-Accession\Excel Accession\Excel Accession\bin\Debug\Excel Accession.exe
+C:\Users\Soudy\Downloads\Excel-Accession\Excel Accession\Excel Accession\bin\Debug\Excel Accession.pdb
+C:\Users\Soudy\Desktop\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\Excel Accession.exe
+C:\Users\Soudy\Desktop\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\Excel Accession.pdb
+C:\Users\Soudy\Desktop\Excel-Accession\Excel Accession\Excel Accession\bin\Debug\Excel Accession.exe
+C:\Users\Soudy\Desktop\Excel-Accession\Excel Accession\Excel Accession\bin\Debug\Excel Accession.pdb
+C:\Users\Soudy\Desktop\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\AlignmentTool.csprojResolveAssemblyReference.cache
+C:\Users\Soudy\Desktop\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form1.resources
+C:\Users\Soudy\Desktop\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form2.resources
+C:\Users\Soudy\Desktop\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Properties.Resources.resources
+C:\Users\Soudy\Desktop\Excel-Accession\Excel Accession\Excel Accession\obj\Debug\AlignmentTool.csproj.GenerateResource.Cache
+G:\mohmed\Introduction to bioinformatics\Alignment tool (Last ver)\Excel Accession\Excel Accession\obj\Debug\Excel Accession.exe
+G:\mohmed\Introduction to bioinformatics\Alignment tool (Last ver)\Excel Accession\Excel Accession\obj\Debug\Excel Accession.pdb
+G:\mohmed\Introduction to bioinformatics\Alignment tool (Last ver)\Excel Accession\Excel Accession\bin\Debug\Excel Accession.exe
+G:\mohmed\Introduction to bioinformatics\Alignment tool (Last ver)\Excel Accession\Excel Accession\bin\Debug\Excel Accession.pdb
+G:\mohmed\Introduction to bioinformatics\Alignment tool (Last ver)\Excel Accession\Excel Accession\obj\Debug\AlignmentTool.csprojResolveAssemblyReference.cache
+G:\mohmed\Introduction to bioinformatics\Alignment tool (Last ver)\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form1.resources
+G:\mohmed\Introduction to bioinformatics\Alignment tool (Last ver)\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Form2.resources
+G:\mohmed\Introduction to bioinformatics\Alignment tool (Last ver)\Excel Accession\Excel Accession\obj\Debug\Excel_Accession.Properties.Resources.resources
+G:\mohmed\Introduction to bioinformatics\Alignment tool (Last ver)\Excel Accession\Excel Accession\obj\Debug\AlignmentTool.csproj.GenerateResource.Cache
